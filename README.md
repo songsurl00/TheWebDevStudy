@@ -7,4 +7,5 @@
 <ul>
     <li>섹션 1: 코스 소개</li>
     <li>섹션 2: 웹 개발이란?</li>
+    <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/01_HTML_Intro">섹션 3: HTML: 기초</a>/li>
 </ul>
