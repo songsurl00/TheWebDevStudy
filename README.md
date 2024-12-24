@@ -11,4 +11,5 @@
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/02_HTML_Semantic">섹션 4: HTML: 시맨틱(Semantics)</a></li>
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/03_HTML_Form & Table">섹션 5: HTML: 폼과 테이블</a></li>
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/04_CSS_Intro">섹션 6: CSS: 기초</a></li>
+    <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/05_CSS_Selectors">섹션 7: CSS: 선택자의 세계</a></li>
 </ul>
