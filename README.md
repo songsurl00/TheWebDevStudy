@@ -14,4 +14,5 @@
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/05_CSS_Selectors">섹션 7: CSS 선택자의 세계</a></li>
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/06_CSS_Box Model & Units">섹션 8: CSS 박스 모델</a></li>
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/07_CSS_Other Properties">섹션 9: 유용한 CSS 속성들</a></li>
+    <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/08_CSS_Flexbox & Responsive">섹션 10: 반응형 CSS 및 Flexbox</a></li>
 </ul>
