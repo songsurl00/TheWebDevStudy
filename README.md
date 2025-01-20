@@ -16,4 +16,5 @@
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/07_CSS_Other Properties">섹션 9: 유용한 CSS 속성들</a></li>
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/08_CSS_Flexbox & Responsive">섹션 10: 반응형 CSS 및 Flexbox</a></li>
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/Project/PriceTable">섹션 11: 가격표 만들기 프로젝트</a></li>
+    <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/09_CSS_Bootstrap">섹션 12: CSS 프레임워크: 부트스트랩(Bootstrap)</a></li>
 </ul>
