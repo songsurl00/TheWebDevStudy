@@ -18,4 +18,5 @@
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/Project/PriceTable">섹션 11: 가격표 만들기 프로젝트</a></li>
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/09_CSS_Bootstrap">섹션 12: CSS 프레임워크: 부트스트랩(Bootstrap)</a></li>
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/Project/Museum Of Candy">섹션 13: 사탕 박물관 프로젝트</a></li>
+    <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/10_JS_Intro">섹션 14: JavaScript 기초</a></li>
 </ul>
