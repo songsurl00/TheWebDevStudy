@@ -20,5 +20,6 @@
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/Project/Museum Of Candy">섹션 13: 사탕 박물관 프로젝트</a></li>
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/10_JS_Intro">섹션 14: JavaScript 기초!</a></li>
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/11_JS_Strings">섹션 15: JavaScript 문자열</a></li>
-    <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/12_JS_Boolean Logic">섹션 16: JavaScript 판단 내리기</a></li>
+    <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/12_JS_Boolean Logic">섹션 16: JavaScrip 판단 내리기</a></li>
+    <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/13_JS_Arrays">섹션 17: JavaScript 배열</a></li>
 </ul>
