@@ -22,5 +22,6 @@
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/11_JS_Strings">섹션 15: JavaScript 문자열</a></li>
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/12_JS_Boolean Logic">섹션 16: JavaScrip 판단 내리기</a></li>
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/13_JS_Arrays">섹션 17: JavaScript 배열</a></li>
-    <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/13_JS_Objects">섹션 17: JavaScript 객체 리터럴 (Literals)</a></li>
+    <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/14_JS_Objects">섹션 17: JavaScript 객체 리터럴 (Literals)</a></li>
+    <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/15_JS_Loops">섹션 17: 루프의 구조</a></li>
 </ul>
