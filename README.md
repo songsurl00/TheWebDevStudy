@@ -25,4 +25,5 @@
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/14_JS_Objects">섹션 18: JavaScript 객체 리터럴 (Literals)</a></li>
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/15_JS_Loops">섹션 19: 루프의 구조</a></li>
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/16_JS_Functions Intro">섹션 20: 함수란?</a></li>
+    <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/17_JS_More Functions">섹션 21: 함수 레벨 업</a></li>
 </ul>
