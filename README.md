@@ -28,5 +28,6 @@
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/17_JS_More Functions">섹션 21: 함수 레벨 업</a></li>
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/18_JS_Callback Method">섹션 22: 콜백과 배열</a></li>
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/19_JS_New Features">섹션 23: JavaScript의 최신 기능들</a></li>
-    <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/20_DOM_Intro">섹션 23: JavaScript의 최신 기능들</a></li>
+    <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/20_DOM_Intro">섹션 24: DOM이란?</a></li>
+    <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/21_DOM_Events">섹션 25: 잃어버린 퍼즐 한 조각: DOM 이벤트</a></li>
 </ul>
