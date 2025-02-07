@@ -28,4 +28,5 @@
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/17_JS_More Functions">섹션 21: 함수 레벨 업</a></li>
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/18_JS_Callback Method">섹션 22: 콜백과 배열</a></li>
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/19_JS_New Features">섹션 23: JavaScript의 최신 기능들</a></li>
+    <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/20_DOM_Intro">섹션 23: JavaScript의 최신 기능들</a></li>
 </ul>
