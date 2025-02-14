@@ -33,4 +33,5 @@
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/Project/ScoreKeeper">섹션 26: 점수 관리자 제작하기</a></li>
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/22_JS_Async">섹션 27: 비동기식 JavaScript</a></li>
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/23_JS_AJAX & API">섹션 28: AJAX와 API</a></li>
+    <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/23_JS_OOP">섹션 29: 프로토타입, 클래스, 그리고 OOP</a></li>
 </ul>
