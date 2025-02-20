@@ -36,4 +36,5 @@
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/24_JS_OOP">섹션 29: 프로토타입, 클래스, 그리고 OOP</a></li>
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/25_Terminal">섹션 30: 터미널 완벽 정리</a></li>
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/26_Node_Intro">섹션 31: 우리의 첫 번째 도구: 노드 (Node)</a></li>
+    <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/27_Node_Modules & NPM">섹션 32: 모듈과 NPM</a></li>
 </ul>
