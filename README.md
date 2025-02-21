@@ -38,4 +38,5 @@
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/26_Node_Intro">섹션 31: 우리의 첫 번째 도구: 노드 (Node)</a></li>
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/27_Node_Modules & NPM">섹션 32: 모듈과 NPM</a></li>
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/28_Express_Intro">섹션 33: Express로 서버 제작하기</a></li>
+    <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/29_Express_Templating">섹션 34: 템플레이팅으로 동적 HTML 구성하기</a></li>
 </ul>
