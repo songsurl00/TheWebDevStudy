@@ -40,4 +40,5 @@
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/28_Express_Intro">섹션 33: Express로 서버 제작하기</a></li>
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/29_Express_Templating">섹션 34: 템플레이팅으로 동적 HTML 구성하기</a></li>
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/30_Express_RESTful Routes">섹션 35: RESTful라우트 정의하기</a></li>
+    <li>섹션 36: 우리의 첫 번째 데이터베이스: MongoDB</li>
 </ul>
