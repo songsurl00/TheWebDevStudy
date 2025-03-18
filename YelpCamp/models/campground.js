@@ -4,7 +4,8 @@ const Schema = mongoose.Schema; // 추후에 mongoose.Schema.~~ 를 많이 쓰�
 // 몽고DB에 새 Schema 생성
 const CampgroundSchema = new Schema({
   title: String,
-  price: String,
+  image: String,
+  price: Number,
   description: String,
   location: String
 });
