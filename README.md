@@ -51,4 +51,5 @@
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/35_Mongo_Relationships">섹션 44: Mongo와 데이터 연결하기</a></li>
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/36_Mongoose_Relationships_Express">섹션 45: Express와 Mongo를 연결하기</a></li>
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/YelpCamp">섹션 46: YelpCamp: 리뷰 모델 추가하기</a></li>
+    <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/37_Express_Router & Cookies">섹션 47: Express의 라우터와 쿠키</a></li>
 </ul>
