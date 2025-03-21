@@ -47,7 +47,8 @@
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/33_Middleware_Intro">섹션 40: 미들웨어: Express의 키(Key)</a></li>
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/YelpCamp">섹션 41: YelpCamp: 기본 스타일 추가하기</a></li>
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/34_Express_Errors">섹션 42: Express 앱의 오류 처리하기</a></li>
-     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/YelpCamp">섹션 43: YelpCamp: 오류 및 데이터 검증하기</a></li>
-     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/35_Mongo_Relationships">섹션 44: Mongo와 데이터 연결하기</a></li>
-     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/36_Mongoose_Relationships_Express">섹션 45: Express와 Mongo를 연결하기</a></li>
+    <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/YelpCamp">섹션 43: YelpCamp: 오류 및 데이터 검증하기</a></li>
+    <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/35_Mongo_Relationships">섹션 44: Mongo와 데이터 연결하기</a></li>
+    <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/36_Mongoose_Relationships_Express">섹션 45: Express와 Mongo를 연결하기</a></li>
+    <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/YelpCamp">섹션 46: YelpCamp: 리뷰 모델 추가하기</a></li>
 </ul>
