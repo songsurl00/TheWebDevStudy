@@ -2,6 +2,8 @@ const express = require('express');
 const router = express.Router();
 const catchAsync = require('../utils/catchAsync');
 const { campgroundSchema } = require('../schemas');
+const { isLoggedIn } = require('../middleware');
+
 const ExpressError = require('../utils/ExpressError');
 const Campground = require('../models/campground');
 
@@ -25,11 +27,13 @@ router.get(
 );
 
 // 새 캠핑장 생성
-router.get('/new', (req, res) => {
+router.get('/new', isLoggedIn, (req, res) => {
   res.render('campground/new');
 });
+
 router.post(
   '/',
+  isLoggedIn,
   validateCampground,
   catchAsync(async (req, res) => {
     // if (!req.body.campground) throw new ExpressError('유효하지 않은 캠프장 데이터입니다', 400);
@@ -56,6 +60,7 @@ router.get(
 // 캠핑장 수정
 router.get(
   '/:id/edit',
+  isLoggedIn,
   catchAsync(async (req, res) => {
     const campground = await Campground.findById(req.params.id);
     if (!campground) {
@@ -65,8 +70,10 @@ router.get(
     res.render('campground/edit', { campground });
   })
 );
+
 router.put(
   '/:id',
+  isLoggedIn,
   validateCampground,
   catchAsync(async (req, res) => {
     const { id } = req.params;
@@ -79,6 +86,7 @@ router.put(
 // 캠핑장 삭제
 router.delete(
   '/:id',
+  isLoggedIn,
   catchAsync(async (req, res) => {
     const { id } = req.params;
     await Campground.findByIdAndDelete(id);
