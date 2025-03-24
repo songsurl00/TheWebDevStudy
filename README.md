@@ -54,4 +54,5 @@
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/37_Express_Router & Cookies">섹션 47: Express의 라우터와 쿠키</a></li>
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/38_Express_Session & Flash">섹션 48: Express의 세션과 플래시</a></li>
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/YelpCamp">섹션 49: YelpCamp: 재구성 및 플래시</a></li>
+    <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/39_Auth">섹션 50: 인증에 관한 모든 것</a></li>
 </ul>
