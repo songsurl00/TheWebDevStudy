@@ -56,4 +56,5 @@
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/YelpCamp">섹션 49: YelpCamp: 재구성 및 플래시</a></li>
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/39_Auth">섹션 50: 인증에 관한 모든 것</a></li>
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/YelpCamp">섹션 51: YelpCamp: 인증된 상태에서 추가하기</a></li>
+    <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/YelpCamp">섹션 52: YelpCamp: 기본 권한 부여</a></li>
 </ul>
