@@ -3,9 +3,18 @@ const Review = require('./review');
 const Schema = mongoose.Schema; // 추후에 mongoose.Schema.~~ 를 많이 쓰니까 미리 정의해둠
 
 // 몽고DB에 새 Schema 생성
+const ImageSchema = new Schema({
+  url: String,
+  filename: String
+});
+
+ImageSchema.virtual('thumbnail').get(function () {
+  return this.url.replace('/upload', '/upload/w_200');
+})
+
 const CampgroundSchema = new Schema({
   title: String,
-  image: String,
+  images: [ImageSchema],
   price: Number,
   description: String,
   location: String,
@@ -27,8 +36,8 @@ CampgroundSchema.post('findOneAndDelete', async function (doc) {
       _id: {
         $in: doc.reviews
       }
-    })
+    });
   }
-})
+});
 
 module.exports = mongoose.model('Campground', CampgroundSchema);

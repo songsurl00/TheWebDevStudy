@@ -58,4 +58,5 @@
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/YelpCamp">섹션 51: YelpCamp: 인증된 상태에서 추가하기</a></li>
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/YelpCamp">섹션 52: YelpCamp: 기본 권한 부여</a></li>
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/YelpCamp">섹션 53: YelpCamp: 컨트롤러와 별점 부여</a></li>
+    <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/YelpCamp">섹션 54: YelpCamp: 이미지 업로드</a></li>
 </ul>

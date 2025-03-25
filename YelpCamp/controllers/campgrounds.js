@@ -1,4 +1,5 @@
 const Campground = require('../models/campground');
+const { cloudinary } = require('../cloudinary');
 
 module.exports.index = async (req, res) => {
   const campgrounds = await Campground.find({});
@@ -9,11 +10,13 @@ module.exports.renderNewForm = (req, res) => {
   res.render('campground/new');
 };
 
-module.exports.createCampground = async (req, res) => {
-  // if (!req.body.campground) throw new ExpressError('유효하지 않은 캠프장 데이터입니다', 400);
+module.exports.createCampground = async (req, res, next) => {
   const campground = new Campground(req.body.campground);
+  campground.images = req.files.map(f => ({ url: f.path, filename: f.filename }));
   campground.author = req.user._id;
   await campground.save();
+  console.log(campground);
+
   req.flash('success', '새 캠핑장을 생성했습니다.');
   res.redirect(`/campgrounds/${campground._id}`);
 };
@@ -43,9 +46,19 @@ module.exports.renderEditForm = async (req, res) => {
   res.render('campground/edit', { campground });
 };
 
-module.exports.editCampground = async (req, res) => {
+module.exports.updateCampground = async (req, res) => {
   const { id } = req.params;
   const campground = await Campground.findByIdAndUpdate(id, { ...req.body.campground });
+  const imgs = req.files.map(f => ({ url: f.path, filename: f.filename }));
+  campground.images.push(...imgs);
+  await campground.save();
+  if (req.body.deleteImages) {
+    for (const filename of req.body.deleteImages) {
+      await cloudinary.uploader.destroy(filename);
+    }
+    await campground.updateOne({ $pull: { images: { filename: { $in: req.body.deleteImages } } } });
+    console.log(campground);
+  }
   req.flash('success', '캠핑장을 업데이트했습니다.');
   res.redirect(`/campgrounds/${campground._id}`);
 };

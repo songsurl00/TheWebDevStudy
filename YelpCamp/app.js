@@ -1,3 +1,5 @@
+require('dotenv').config();
+
 const express = require('express');
 const path = require('path');
 const mongoose = require('mongoose');
@@ -68,7 +70,7 @@ app.use((req, res, next) => {
   next();
 });
 
-app.use('/', userRoutes) // 회원가입, 로그인 라우팅
+app.use('/', userRoutes); // 회원가입, 로그인 라우팅
 app.use('/campgrounds', campgroundsRoutes); // 캠프그라운드 라우팅
 app.use('/campgrounds/:id/reviews', reviewsRoutes); // 리뷰 라우팅
 
