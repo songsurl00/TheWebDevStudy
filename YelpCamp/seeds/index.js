@@ -25,14 +25,20 @@ const sample = arr => arr[Math.floor(Math.random() * arr.length)];
 const seedDB = async () => {
   await Campground.deleteMany({}); // 기존 DB 날리기
   // console.log(imgs.urls.raw)
-  for (let i = 0; i < 45; i++) {
+  for (let i = 0; i < 200; i++) {
     const random1000 = Math.floor(Math.random() * 1000);
     const price = Math.floor(Math.random() * 20) + 10;
     const camp = new Campground({
       author: '67e11d1b3fc268a32a05a6bd',
       location: `${cities[random1000].city}, ${cities[random1000].state}`,
       title: `${sample(descriptors)} ${sample(places)}`,
-      geometry: { type: 'Point', coordinates: [126.978291, 37.566679] },
+      geometry: { 
+        type: 'Point', 
+        coordinates: [
+          cities[random1000].longitude, 
+          cities[random1000].latitude
+        ] 
+      },
       images: [
         {
           url: 'https://res.cloudinary.com/dwhl1d2kv/image/upload/v1742886151/YelpCamp/mmntabwdvmrjrztuvbcf.jpg',
