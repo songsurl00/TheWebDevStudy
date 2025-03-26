@@ -59,4 +59,10 @@
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/YelpCamp">섹션 52: YelpCamp: 기본 권한 부여</a></li>
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/YelpCamp">섹션 53: YelpCamp: 컨트롤러와 별점 부여</a></li>
     <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/YelpCamp">섹션 54: YelpCamp: 이미지 업로드</a></li>
+    <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/YelpCamp">섹션 55: YelpCamp: 맵 추가하기</a></li>
+    <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/YelpCamp">섹션 56: YelpCamp: 팬시 클러스터 맵</a></li>
+    <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/YelpCamp">섹션 57: YelpCamp: 스타일 정하기</a></li>
+    <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/YelpCamp">섹션 57: YelpCamp: 스타일 정하기</a></li>
+    <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/YelpCamp">섹션 58: YelpCamp: 일반적인 보안 문제들</a></li>
+    <li><a href="https://github.com/songsurl00/TheWebDevStudy/tree/main/YelpCamp">섹션 59: YelpCamp: 배포하기</a></li>
 </ul>
