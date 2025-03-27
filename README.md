@@ -1,6 +1,6 @@
 # The Web Developer Bootcamp 2024
 
-<a href="https://www.udemy.com/course/the-web-developer-bootcamp">The Web Developer 부트캠프 2024</a> 를 통한 web 공부!!
+<a href="https://www.udemy.com/course/the-web-developer-bootcamp">The Web Developer 부트캠프 2025</a> 를 통한 web 공부!!
 
 ## 목차
 
