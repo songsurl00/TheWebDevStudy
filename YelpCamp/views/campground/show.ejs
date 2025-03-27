@@ -43,8 +43,9 @@
       <div class="card-footer text-body-secondary">2 days ago</div>
     </div>
   </div>
+
   <div class="col-6">
-    <div id="map" style="width: 400px; height: 300px"></div>
+    <div id="map"></div>
     <% if (currentUser) { %>
     <h1>Leave a Review</h1>
     <form class="mb-3 needs-validation" action="/campgrounds/<%= campground._id %>/reviews" method="POST" novalidate>
